@@ -1,0 +1,5 @@
+Computer programming (often shortened to programming) is a process that leads from an original formulation of a computing problem to executable computer programs. Programming involves activities such as analysis, developing understanding, generating algorithms, verification of requirements of algorithms including their correctness and resources consumption, and implementation (commonly referred to as coding) of algorithms in a target programming language.[1]
+
+This course comprises nine lessons on the fundamentals of computer programming. Each lesson includes a combination of Wikibooks, Wikipedia, and Internet-based readings, YouTube videos, and hands-on, interactive learning activities. Examples are provided using flowcharts, pseudocode, and a wide variety of computer programming languages.
+
+This entire Wikiversity course can be downloaded in book form by selecting Download Learning Guide in the sidebar. The corresponding Wikipedia reading collection can be downloaded in book form by selecting Download Reading Guide.

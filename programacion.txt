@@ -1,0 +1,31 @@
+Los lenguajes de programación
+Los lenguajes de programación son idiomas artificiales diseñados para
+expresar cálculos y procesos que serán llevados a cabo por ordenadores. Un
+lenguaje de programación está formado por un conjunto de palabras
+reservadas, símbolos y reglas sintácticas y semánticas que definen su
+estructura y el significado de sus elementos y expresiones. El proceso de
+programación consiste en la escritura, compilación y verificación del código
+fuente de un programa.
+Antes de diseñar un programa es necesario entender completamente el
+problema que queremos resolver y conocer las restricciones de operación de
+la aplicación. La programación es una tarea compleja y es muy importante
+abordar la solución a un problema específico desde un punto de vista
+algorítmico. Un algoritmo es un conjunto ordenado y finito de operaciones
+que permite hallar la solución de un problema. Está definido por
+instrucciones o reglas bien definidas, ordenadas y finitas que permiten
+realizar una actividad. Dado un estado inicial, una entrada y una secuencia
+de pasos sucesivos, se llega a un estado final y se obtiene una solución.
+Para programar de forma eficaz es necesario aprender a resolver problemas
+de una forma sistemática y rigurosa. Solo se puede llegar a realizar un buen
+programa si previamente se ha diseñado un algoritmo. Un algoritmo dará
+lugar a un programa que puede codificarse en cualquier lenguaje de
+programación.
+Uno de los objetivos del curso de Fundamentos de Informática es que el
+alumno desarrolle habilidades de análisis y diseño de algoritmos simples
+que le puedan ser de utilidad en el futuro. Es importante tener nociones
+básicas de programación porque esto permitirá entender y diseñar procesos
+básicos en lenguajes de uso general como Java y también en aplicaciones
+informáticas de uso común en la ingeniería o el diseño. En la actualidad la
+mayoría de las aplicaciones que utilizamos a diario ofrecen posibilidades de
+programación. Esto facilita el diseño de pequeñas aplicaciones para
+automatizar tareas de uso cotidiano.

@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" SelectedStyle="">
+    <b:Source>
+        <b:Year>2010</b:Year>
+        <b:Volume>1</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Procesamiento de lenguaje natural y sus aplicaciones</b:Title>
+        <b:Tag>gelbukh2010procesamiento</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Gelbukh</b:Last>
+                        <b:First>Alexander</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>6–11</b:Pages>
+        <b:JournalName>Komputer Sapiens</b:JournalName>
+    </b:Source>
+    <b:Source>
+        <b:Department>Quito: UCE</b:Department>
+        <b:Year>2019</b:Year>
+        <b:BIBTEX_Entry>mastersthesis</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Desarrollo de una aplicación de procesamiento de imágenes basada en técnicas de deep learning</b:Title>
+        <b:Tag>duenas2019desarrollo</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Dueñas Tacuri</b:Last>
+                        <b:Middle>Ximena</b:Middle>
+                        <b:First>Diana</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>B.S. thesis</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Robots, Inteligencia Artificial y Derecho</b:Title>
+        <b:Tag>vasconcelosrobots</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Vasconcelos</b:Last>
+                        <b:Middle>Preparatoria José</b:Middle>
+                        <b:First>Charla</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2018</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Inteligencia artificial</b:Title>
+        <b:Tag>rouhiainen2018inteligencia</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Rouhiainen</b:Last>
+                        <b:First>Lasse</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:JournalName>Madrid: Alienta Editorial</b:JournalName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2019</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Robots, inteligencia artificial y realidad virtual: una aproximación en el sector del turismo</b:Title>
+        <b:Tag>almeida2019robots</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Almeida</b:Last>
+                        <b:Middle>del Mar Alonso</b:Middle>
+                        <b:First>Marı́a</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>13–26</b:Pages>
+        <b:JournalName>Cuadernos de turismo</b:JournalName>
+        <b:Number>44</b:Number>
+    </b:Source>
+    <b:Source>
+        <b:Year>2005</b:Year>
+        <b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+        <b:SourceType>ConferenceProceedings</b:SourceType>
+        <b:Title>Silla de ruedas inteligente controlada por voz</b:Title>
+        <b:Tag>alcubierre2005silla</b:Tag>
+        <b:BookTitle>Primer congreso Internacional de Domótica, Robótica y Teleasistencia para todos</b:BookTitle>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Alcubierre</b:Last>
+                        <b:Middle>M.</b:Middle>
+                        <b:First>J.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Minguez</b:Last>
+                        <b:First>J.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Montesano</b:Last>
+                        <b:First>L.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Montano</b:Last>
+                        <b:First>L.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Saz</b:Last>
+                        <b:First>O.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Lleida</b:Last>
+                        <b:First>E.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ConferenceName>Primer congreso Internacional de Domótica, Robótica y Teleasistencia para todos</b:ConferenceName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2009</b:Year>
+        <b:Volume>6</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Procesamiento de lenguaje natural</b:Title>
+        <b:Tag>vasquez2009procesamiento</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Vásquez</b:Last>
+                        <b:Middle>Cortez</b:Middle>
+                        <b:First>Augusto</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Quispe</b:Last>
+                        <b:Middle>Pariona</b:Middle>
+                        <b:First>Jaime</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Huayna</b:Last>
+                        <b:Middle>Maria</b:Middle>
+                        <b:First>Ana</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>others</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>45–54</b:Pages>
+        <b:JournalName>Revista de investigación de Sistemas e Informática</b:JournalName>
+        <b:Number>2</b:Number>
+    </b:Source>
+    <b:Source>
+        <b:Year>2019</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>La Inteligencia Artificial logra reconstruir el rostro de personas solo a través de su voz</b:Title>
+        <b:Publisher>Europa Press</b:Publisher>
+        <b:Tag>press2019inteligencia</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Press</b:Last>
+                        <b:First>Europa</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2019</b:Year>
+        <b:Volume>23</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Identification of Rodent Species Using Deep Learning</b:Title>
+        <b:Tag>seijas2019identification</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Seijas</b:Last>
+                        <b:First>Cesar</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Montilla</b:Last>
+                        <b:First>Guillermo</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Frassato</b:Last>
+                        <b:First>Luigi</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>257</b:Pages>
+        <b:JournalName>Computación y Sistemas</b:JournalName>
+        <b:Number>1</b:Number>
+    </b:Source>
+    <b:Source>
+        <b:Department>Universitat Politècnica de Catalunya</b:Department>
+        <b:Year>2020</b:Year>
+        <b:BIBTEX_Entry>mastersthesis</b:BIBTEX_Entry>
+        <b:SourceType>Report</b:SourceType>
+        <b:Title>Industrial IoT. Machine learning en la industria 4.0</b:Title>
+        <b:Tag>garcia2020industrial</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Garcı́a Rodrı́guez</b:Last>
+                        <b:First>David</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ThesisType>B.S. thesis</b:ThesisType>
+    </b:Source>
+    <b:Source>
+        <b:Year>2019</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Implementación de un método de procesamiento del lenguaje natural en un voicebot sobre el cultivo de maı́z</b:Title>
+        <b:Tag>cucunuba2019implementacion</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Cucunubá Viracachá</b:Last>
+                        <b:Middle>Camilo</b:Middle>
+                        <b:First>Cristian</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Sánchez Araque</b:Last>
+                        <b:Middle>Andres</b:Middle>
+                        <b:First>Sneider</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>others</b:Last>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2020</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Modelo de machine learning para la predicción de las tendencias de hurto en Colombia</b:Title>
+        <b:Publisher>Associação Ibérica de Sistemas e Tecnologias de Informacao</b:Publisher>
+        <b:Tag>ordonez2020modelo</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Ordóñez</b:Last>
+                        <b:First>Hugo</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Cobos</b:Last>
+                        <b:First>Carlos</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Bucheli</b:Last>
+                        <b:First>Vı́ctor</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>494–506</b:Pages>
+        <b:JournalName>Revista Ibérica de Sistemas e Tecnologias de Informação</b:JournalName>
+        <b:Number>E29</b:Number>
+    </b:Source>
+    <b:Source>
+        <b:Year>2006</b:Year>
+        <b:Volume>23</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Algoritmos de aprendizaje: knn &amp; kmeans</b:Title>
+        <b:Tag>cambronero2006algoritmos</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Cambronero</b:Last>
+                        <b:Middle>Garcı́a</b:Middle>
+                        <b:First>Cristina</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Moreno</b:Last>
+                        <b:Middle>Gómez</b:Middle>
+                        <b:First>Irene</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:JournalName>Intelgencia en Redes de Comunicación, Universidad Carlos III de Madrid</b:JournalName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2015</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Categorización de documentos empleando técnicas de procesamiento de lenguaje natural</b:Title>
+        <b:Publisher>Universidad de Sonora</b:Publisher>
+        <b:Tag>pina2015categorizacion</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>PIÑA VALENZUELA</b:Last>
+                        <b:Middle>O. N. I. C. A.</b:Middle>
+                        <b:First>M.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2015</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Modelo de Machine Learning para la Clasificación de pacientes en términos del nivel asistencial requerido en una urgencia pediátrica con Área de Cuidados Mı́nimos</b:Title>
+        <b:Publisher>Universidad Tecnológica de Bolı́var</b:Publisher>
+        <b:Tag>garcia2015modelo</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Garcı́a Gazabón</b:Last>
+                        <b:Middle>Isabel</b:Middle>
+                        <b:First>Gisela</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2018</b:Year>
+        <b:Volume>29</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Aplicación de Minerı́a de Datos para la Clasificación de programas universitarios de Ingenierı́a Industrial Acreditados en alta calidad en Colombia</b:Title>
+        <b:Publisher>Centro de Información Tecnológica</b:Publisher>
+        <b:Tag>fontalvo2018aplicacion</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Fontalvo-Herrera</b:Last>
+                        <b:Middle>J.</b:Middle>
+                        <b:First>Tomás</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Delahoz</b:Last>
+                        <b:Middle>J.</b:Middle>
+                        <b:First>Enrique</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Mendoza-Mendoza</b:Last>
+                        <b:Middle>A.</b:Middle>
+                        <b:First>Adel</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>89–96</b:Pages>
+        <b:JournalName>Información tecnológica</b:JournalName>
+        <b:Number>3</b:Number>
+    </b:Source>
+    <b:Source>
+        <b:Year>2020</b:Year>
+        <b:Volume>16</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Asistente virtual académico utilizando tecnologı́as cognitivas de procesamiento de lenguaje natural</b:Title>
+        <b:Tag>manjarres2020asistente</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Manjarrés-Betancur</b:Last>
+                        <b:Middle>A.</b:Middle>
+                        <b:First>Roberto</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Echeverri-Torres</b:Last>
+                        <b:Middle>Marı́a</b:Middle>
+                        <b:First>Monica</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>85–96</b:Pages>
+        <b:JournalName>Revista Politécnica</b:JournalName>
+        <b:Number>31</b:Number>
+    </b:Source>
+    <b:Source>
+        <b:Year>2019</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Aplicación de técnicas de minerı́a de datos para predecir la deserción estudiantil de la facultad de ingenierı́a de la Universidad Nacional Daniel Alcides Carrión</b:Title>
+        <b:Publisher>Universidad Nacional Daniel Alcides Carrión</b:Publisher>
+        <b:Tag>alania2019aplicacion</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>ALANIA RICALDI</b:Last>
+                        <b:Middle>Frank</b:Middle>
+                        <b:First>Pit</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2020</b:Year>
+        <b:Volume>6</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>La Inteligencia Artificial y la Robótica: sus dilemas sociales, éticos y jurı́dicos</b:Title>
+        <b:Tag>porcelli2020inteligencia</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Porcelli</b:Last>
+                        <b:Middle>Margarita</b:Middle>
+                        <b:First>Adriana</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>49–105</b:Pages>
+        <b:JournalName>Derecho global. Estudios sobre derecho y justicia</b:JournalName>
+        <b:Number>16</b:Number>
+    </b:Source>
+</b:Sources>

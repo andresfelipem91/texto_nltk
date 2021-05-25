@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" SelectedStyle="">
+    <b:Source>
+        <b:Year>2009</b:Year>
+        <b:BIBTEX_Entry>book</b:BIBTEX_Entry>
+        <b:SourceType>Book</b:SourceType>
+        <b:Title>Natural language processing with Python: analyzing text with the natural language toolkit</b:Title>
+        <b:Publisher>" O'Reilly Media, Inc."</b:Publisher>
+        <b:Tag>bird2009natural</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Bird</b:Last>
+                        <b:First>Steven</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Klein</b:Last>
+                        <b:First>Ewan</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Loper</b:Last>
+                        <b:First>Edward</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2014</b:Year>
+        <b:BIBTEX_Entry>book</b:BIBTEX_Entry>
+        <b:SourceType>Book</b:SourceType>
+        <b:Title>Python 3 text processing with NLTK 3 cookbook</b:Title>
+        <b:Publisher>Packt Publishing Ltd</b:Publisher>
+        <b:Tag>perkins2014python</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Perkins</b:Last>
+                        <b:First>Jacob</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2015</b:Year>
+        <b:BIBTEX_Entry>book</b:BIBTEX_Entry>
+        <b:SourceType>Book</b:SourceType>
+        <b:Title>NLTK essentials</b:Title>
+        <b:Publisher>Packt Publishing Ltd</b:Publisher>
+        <b:Tag>hardeniya2015nltk</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Hardeniya</b:Last>
+                        <b:First>Nitin</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+</b:Sources>

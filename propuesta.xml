@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" SelectedStyle="">
+    <b:Source>
+        <b:Year>2007</b:Year>
+        <b:Volume>11</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Monografı́a: Técnicas de la Inteligencia Artificial aplicadas a la educación</b:Title>
+        <b:Tag>vila2007monografia</b:Tag>
+        <b:Publisher>Asociación Española para la Inteligencia Artificial</b:Publisher>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Vila</b:Last>
+                        <b:Middle>M. Sánchez</b:Middle>
+                        <b:First>Eduardo</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Penı́n</b:Last>
+                        <b:Middle>Lama</b:Middle>
+                        <b:First>Manuel</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>7–12</b:Pages>
+        <b:JournalName>Inteligencia Artificial. Revista Iberoamericana de Inteligencia Artificial</b:JournalName>
+        <b:Number>33</b:Number>
+    </b:Source>
+    <b:Source>
+        <b:Year>2008</b:Year>
+        <b:Volume>3</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Uso de técnicas de Inteligencia Artificial en ambientes distribuidos de enseñanza/aprendizaje</b:Title>
+        <b:Tag>builes2008uso</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Builes</b:Last>
+                        <b:Middle>Alberto Jiménez</b:Middle>
+                        <b:First>Jovani</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Carranza</b:Last>
+                        <b:Middle>Arturo Ovalle</b:Middle>
+                        <b:First>Demetrio</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>98–106</b:Pages>
+        <b:JournalName>Revista educación en ingenierı́a</b:JournalName>
+        <b:Number>5</b:Number>
+    </b:Source>
+    <b:Source>
+        <b:Year>2017</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>La inteligencia artificial en la educación superior. Oportunidades y amenazas</b:Title>
+        <b:Tag>leon2017inteligencia</b:Tag>
+        <b:Publisher>Innova Research Journal</b:Publisher>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>León Rodriguez</b:Last>
+                        <b:Middle>de la Caridad</b:Middle>
+                        <b:First>Giraldo</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Viña Brito</b:Last>
+                        <b:Middle>Margarita</b:Middle>
+                        <b:First>Silvia</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2019</b:Year>
+        <b:Volume>7</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Inteligencia artificial y sus implicaciones en la educación superior</b:Title>
+        <b:Tag>ocana2019inteligencia</b:Tag>
+        <b:Publisher>Propósitos y Representaciones</b:Publisher>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Ocaña-Fernández</b:Last>
+                        <b:First>Yolvi</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Valenzuela-Fernández</b:Last>
+                        <b:Middle>Alex</b:Middle>
+                        <b:First>Luis</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Garro-Aburto</b:Last>
+                        <b:Middle>Lourdes</b:Middle>
+                        <b:First>Luzmila</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>536–568</b:Pages>
+        <b:JournalName>Propósitos y Representaciones</b:JournalName>
+        <b:Number>2</b:Number>
+    </b:Source>
+</b:Sources>
